@@ -11,7 +11,7 @@ intents.guilds = True
 
 bot = commands.Bot(command_prefix="!", intents=intents)
 
-VERIFY_CHANNEL_ID = 1372121003987177556 
+VERIFY_CHANNEL_ID = 1372940208923742289 
 
 class VerifyButton(Button):
     def __init__(self):
